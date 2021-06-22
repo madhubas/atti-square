@@ -1,6 +1,6 @@
 {
-  "homepage": "http://madhubas.github.io/react-gh-pages",
-  "name": "frontend",
+  "homepage": "http://madhubas.github.io/attisquare",
+  "name": "attisquare",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-page -d build"
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
